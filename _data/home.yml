@@ -35,8 +35,6 @@ companies-using-envoy:
     logo: /img/logos/salesforce.svg
   - name: Snapchat
     logo: /img/logos/snapchat.svg
-  - name: Stripe
-    logo: /img/logos/stripe.svg
   - name: Square
     logo: /img/logos/square.svg
   - name: Tencent
